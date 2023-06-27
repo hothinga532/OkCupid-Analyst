@@ -7,3 +7,4 @@ In this dataset, there are 60k records containing structured information such as
 Reference: https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
 
 ## Goals
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://drive.google.com/file/d/1h7ebZi0ayRJ1D7SWz9Y0LxNgWrXFyxh3/view?usp=drive_link)https://drive.google.com/file/d/1h7ebZi0ayRJ1D7SWz9Y0LxNgWrXFyxh3/view?usp=drive_link)
