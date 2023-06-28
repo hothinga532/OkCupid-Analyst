@@ -8,4 +8,8 @@ Reference: https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
 
 ## Goals
 
-https://www.youtube.com/watch?v=DzsLLgXrj2E
+
+
+
+https://github.com/hothinga532/OkCupid-Analyst/assets/135147020/51b5ac3f-d7ef-4fb7-b7a4-0ac3eb3c6912
+
