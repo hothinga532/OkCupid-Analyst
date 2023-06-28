@@ -5,7 +5,9 @@ OkCupid is a mobile dating app. It sets itself apart from other dating apps by m
 In this dataset, there are 60k records containing structured information such as age, sex, orientation as well as text data from open ended descriptions.
 
 Reference: 
+
   Okcupid-profiles: https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
+  
   OkCupid Dating App - Google Play Store Reviews: https://www.kaggle.com/datasets/shivkumarganesh/okcupid-google-play-store-reviews
 
 ## Skills: 
