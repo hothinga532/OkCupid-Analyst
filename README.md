@@ -5,11 +5,11 @@ OkCupid is a mobile dating app. It sets itself apart from other dating apps by m
 In this dataset, there are 60k records containing structured information such as age, sex, orientation as well as text data from open ended descriptions.
 
 Reference: 
-okcupid-profiles: https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
-OkCupid Dating App - Google Play Store Reviews: https://www.kaggle.com/datasets/shivkumarganesh/okcupid-google-play-store-reviews
+  Okcupid-profiles: https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
+  OkCupid Dating App - Google Play Store Reviews: https://www.kaggle.com/datasets/shivkumarganesh/okcupid-google-play-store-reviews
 
 ## Skills: 
-data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.
+data cleaning, data analysis, descriptive statistics, data visualization.
 
 ## Technology: 
 Python, Pandas, Numpy, Matplotlib, nltk, Power BI
