@@ -1,4 +1,4 @@
-# OkCupid-Analyst
+# OkCupid Dating App Analysis
 
 ## Data
 OkCupid is a mobile dating app. It sets itself apart from other dating apps by making use of a pre computed compatibility score, calculated by optional questions the users may choose to answer.
