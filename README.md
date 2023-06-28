@@ -6,7 +6,14 @@ In this dataset, there are 60k records containing structured information such as
 
 Reference: https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
 
-## Goals
+## Skills: 
+data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.
+
+## Technology: 
+Python, Pandas, Numpy, Matplotlib, nltk, Power BI
+
+## Results: 
+User profiles statistics and user reviews about the app. Give subjective opinions to improve the application
 
 
 
